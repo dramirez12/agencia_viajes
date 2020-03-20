@@ -1,0 +1,12 @@
+USUARIOS 	= admin
+CONTRASEñA 	= 123
+
+
+
+
+
+
+CORREO DE USO GRUPAL
+Email		=> 6xforce20@gmail.com
+CONTRASEñA 	=> Force2006
+
