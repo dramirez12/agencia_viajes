@@ -9,7 +9,7 @@
       
 <form action="modulos/menu/lista/home.php">
 
-<button>Plantilla Prueba2</button>
+<button>Plantilla Prueba2por que se desconecto</button>
 
 </form>
 
