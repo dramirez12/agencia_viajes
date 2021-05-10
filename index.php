@@ -9,7 +9,7 @@
       
 <form action="modulos/menu/lista/home.php">
 
-<button>Plantilla Prueba</button>
+<button>Plantilla Prueba2</button>
 
 </form>
 
